@@ -1,0 +1,6 @@
+@KumarTC_AFO_API_HostAddress = http://localhost:5125
+
+GET {{KumarTC_AFO_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
